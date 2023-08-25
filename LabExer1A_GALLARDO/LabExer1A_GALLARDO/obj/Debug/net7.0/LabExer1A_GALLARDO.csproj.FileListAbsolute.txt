@@ -1,0 +1,14 @@
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\bin\Debug\net7.0\LabExer1A_GALLARDO.exe
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\bin\Debug\net7.0\LabExer1A_GALLARDO.deps.json
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\bin\Debug\net7.0\LabExer1A_GALLARDO.runtimeconfig.json
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\bin\Debug\net7.0\LabExer1A_GALLARDO.dll
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\bin\Debug\net7.0\LabExer1A_GALLARDO.pdb
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\LabExer1A_GALLARDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\LabExer1A_GALLARDO.AssemblyInfoInputs.cache
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\LabExer1A_GALLARDO.AssemblyInfo.cs
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\LabExer1A_GALLARDO.csproj.CoreCompileInputs.cache
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\LabExer1A_GALLARDO.dll
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\refint\LabExer1A_GALLARDO.dll
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\LabExer1A_GALLARDO.pdb
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\LabExer1A_GALLARDO.genruntimeconfig.cache
+C:\Users\esoj\source\repos\LabExer1A_GALLARDO\LabExer1A_GALLARDO\obj\Debug\net7.0\ref\LabExer1A_GALLARDO.dll
